@@ -1,6 +1,6 @@
 ### ADHD / Dyslexia Accessible Text  
 
-![Preview](example.png)
+![Preview](https://raw.githubusercontent.com/havenfricke/Unity_AccessibleText/main/example.png)
 
 [Bionic‑Style](https://bionic-reading.com/) Emphasis System for Unity (with Dynamic Child‑Object Support)
 

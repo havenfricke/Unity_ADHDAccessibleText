@@ -2,7 +2,7 @@
 
 [Bionic‑Style](https://bionic-reading.com/) Emphasis System for Unity (with Dynamic Child‑Object Support)
 
-This component applies a bionic‑reading‑style transformation to all TextMeshProUGUI elements under a GameObject. It bolds the first portion of each word using TextMeshPro rich‑text tags and automatically updates when new child objects are added to the hierarchy.
+**Th**is **comp**onent **app**lies **a** **bio**nic‑**rea**ding‑**st**yle **trans**formation **t**o **a**ll **Text**MeshProUGUI **ele**ments **un**der **a** **Game**Object. **I**t **bo**lds **t**he **fi**rst **por**tion **o**f **e**ach **w**ord **us**ing **Text**MeshPro **ric**h‑text **ta**gs **a**nd **auto**matically **up**dates **w**hen **n**ew **ch**ild **obj**ects **a**re **ad**ded **t**o **t**he **hie**rarchy.
 
 ---
 

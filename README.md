@@ -1,7 +1,5 @@
 ### ADHD / Dyslexia Accessible Text  
 
-![Preview](https://raw.githubusercontent.com/havenfricke/Unity_AccessibleText/main/example.png)
-
 [Bionic‑Style](https://bionic-reading.com/) Emphasis System for Unity (with Dynamic Child‑Object Support)
 
 This component applies a bionic‑reading‑style transformation to all TextMeshProUGUI elements under a GameObject. It bolds the first portion of each word using TextMeshPro rich‑text tags and automatically updates when new child objects are added to the hierarchy.
